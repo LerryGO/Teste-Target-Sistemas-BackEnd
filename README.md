@@ -1,17 +1,17 @@
 ## Teste Target Sistemas para Desenvolvedor Backend
 
-# Questão 1 - Valor de soma
+### Questão 1 - Valor de soma
 Observe o trecho de código abaixo: int INDICE = 13, SOMA = 0, K = 0;
 Enquanto K < INDICE faça { K = K + 1; SOMA = SOMA + K; }
 Imprimir(SOMA);
 Ao final do processamento, qual será o valor da variável SOMA?
 
-# Questão 2 - Sequencia Fibonacci
+### Questão 2 - Sequencia Fibonacci
 Dado a sequência de Fibonacci, onde se inicia por 0 e 1 e o próximo valor sempre será a soma dos 2 valores anteriores (exemplo: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34...), escreva um programa na linguagem que desejar onde, informado um número, ele calcule a sequência de Fibonacci e retorne uma mensagem avisando se o número informado pertence ou não a sequência.
 
 IMPORTANTE: Esse número pode ser informado através de qualquer entrada de sua preferência ou pode ser previamente definido no código;
 
-# Questão 3 - Faturamento de uma distribuidora
+### Questão 3 - Faturamento de uma distribuidora
 Dado um vetor que guarda o valor de faturamento diário de uma distribuidora, faça um programa, na linguagem que desejar, que calcule e retorne:
 • O menor valor de faturamento ocorrido em um dia do mês;
 • O maior valor de faturamento ocorrido em um dia do mês;
@@ -21,7 +21,7 @@ IMPORTANTE:
 a) Usar o json ou xml disponível como fonte dos dados do faturamento mensal;
 b) Podem existir dias sem faturamento, como nos finais de semana e feriados. Estes dias devem ser ignorados no cálculo da média;
 
-# Questão 4 - Percentual de representação de estado
+### Questão 4 - Percentual de representação de estado
 Dado o valor de faturamento mensal de uma distribuidora, detalhado por estado:
 • SP – R$67.836,43
 • RJ – R$36.678,66
@@ -31,7 +31,7 @@ Dado o valor de faturamento mensal de uma distribuidora, detalhado por estado:
 
 Escreva um programa na linguagem que desejar onde calcule o percentual de representação que cada estado teve dentro do valor total mensal da distribuidora. 
 
-# Questão 5 - Inverter caracter
+### Questão 5 - Inverter caracter
 Escreva um programa que inverta os caracteres de um string.
 
 IMPORTANTE:
